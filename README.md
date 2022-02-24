@@ -11,34 +11,33 @@
 
 ## Application Flow
 
-<img src="/Screenshots/ss-1-signup.jpg" width="50">
+<img src="/Screenshots/ss-1-signup.jpg" width="250">
 
-![""](/Screenshots/ss-1-signup.jpg)
+<img src="/Screenshots/ss-2-mail.jpg" width="250">
 
-![""](/Screenshots/ss-2-mail.jpg)
+<img src="/Screenshots/ss-2-verification_mail_sent.jpg" width="250">
 
-![""](/Screenshots/ss-2-verification_mail_sent.jpg)
+<img src="/Screenshots/ss-2-verified.jpg" width="250">
 
-![""](/Screenshots/ss-2-verified.jpg)
+<img src="/Screenshots/ss-3-homepage.jpg" width="250">
 
-![""](/Screenshots/ss-3-homepage.jpg)
+<img src="/Screenshots/ss-4-course_enroll.jpg" width="250">
 
-![""](/Screenshots/ss-4-course_enroll.jpg)
+<img src="/Screenshots/ss-4-course_enroll-2.jpg" width="250">
 
-![""](/Screenshots/ss-4-course_enroll-2.jpg)
+<img src="/Screenshots/ss-5-coursedetail.jpg" width="250">
 
-![""](/Screenshots/ss-5-coursedetail.jpg)
+<img src="/Screenshots/ss-6-video.jpg" width="250">
 
-![""](/Screenshots/ss-6-video.jpg)
+<img src="/Screenshots/ss-7-pdf.jpg" width="250">
 
-![""](/Screenshots/ss-7-pdf.jpg)
 
 ## Database and Authentication
 
-![""](/Screenshots/Firebase_authentication.png)
+<img src="/Screenshots/Firebase_authentication.png" width="250">
 
-![""](/Screenshots/Firebase_storage.png)
+<img src="/Screenshots/Firebase_storage.png" width="250">
 
-![""](/Screenshots/Firestore_course_storing.png)
+<img src="/Screenshots/Firestore_course_storing.png" width="250">
 
-![""](/Screenshots/Firestore_userData_storing.png)
+<img src="/Screenshots/Firestore_userData_storing.png" width="250">
