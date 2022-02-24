@@ -11,19 +11,21 @@
 
 ## Application Flow
 
-![""](/Screenshots/ss-1-signup.jpg =250x250)
+<img src="/Screenshots/ss-1-signup.jpg" width="50">
 
-![""](/Screenshots/ss-2-mail.jpg =250x250)
+![""](/Screenshots/ss-1-signup.jpg)
 
-![""](/Screenshots/ss-2-verification_mail_sent.jpg =250x250)
+![""](/Screenshots/ss-2-mail.jpg)
 
-![""](/Screenshots/ss-2-verified.jpg =250x250)
+![""](/Screenshots/ss-2-verification_mail_sent.jpg)
 
-![""](/Screenshots/ss-3-homepage.jpg =250x250)
+![""](/Screenshots/ss-2-verified.jpg)
 
-![""](/Screenshots/ss-4-course_enroll.jpg =250x250)
+![""](/Screenshots/ss-3-homepage.jpg)
 
-![""](/Screenshots/ss-4-course_enroll-2.jpg =250x250)
+![""](/Screenshots/ss-4-course_enroll.jpg)
+
+![""](/Screenshots/ss-4-course_enroll-2.jpg)
 
 ![""](/Screenshots/ss-5-coursedetail.jpg)
 
