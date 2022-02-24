@@ -1,9 +1,9 @@
 # nEma
  Cloud Based E-Learning Mobile Application.
 
- Major Application development - Flutter
- Authentication - Firebase services
- Storing large files(pdfs,videos) - Firebase Storage
+ Major Application development - Flutter,
+ Authentication - Firebase services,
+ Storing large files(pdfs,videos) - Firebase Storage,
  Realtime database management - Firestore
 
 Application provides user E-learning platform service to access the courses anywhere at anytime. You can view videos, pdfs and even download the latter in your device. Further this Application <b> can be developed <b>by adding more exciting features like tests, quizes, academic games etc.
